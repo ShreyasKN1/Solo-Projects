@@ -1,3 +1,9 @@
+Please read the material, research the concepts yourself, and build your own understanding. Don’t blindly copy.
+
+There is significant effort behind these notes and implementations. They are meant to document my learning and reasoning not serve as ready-made material to reproduce.
+
+Continuing to learn, design, build, and improve.
+
 I am Shreyas Kumar, a Java Backend Developer + ReactJS dev with close to three years of experience building scalable, production-grade systems. My work is centered on backend architecture, API design, performance, and reliability. I focus on building systems that solve real business problems, not just academic demos.
 
 My current area of specialization is bringing Generative AI and Agentic AI into Java applications. I work on integrating LLMs with Spring Boot services, building AI-driven workflows, and designing agent-style backends capable of reasoning, planning, and executing tasks across services. This includes prompt orchestration, tool/function calling, retrieval-augmented generation, vector stores, and event-driven AI pipelines.
